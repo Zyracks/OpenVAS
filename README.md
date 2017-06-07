@@ -1,9 +1,8 @@
 Name
 ~~~~~~~~~~~~~
 OpenVAS — Open Vulnerability Assessment System
-
-Description
 ~~~~~~~~~~~~~
+Description
 OpenVAS (Open Vulnerability Assessment System, originally known as GNessUs) is a software framework of several services 
 and tools offering vulnerability scanning and vulnerability management. 
 All OpenVAS products are free software, and most components are licensed under 
