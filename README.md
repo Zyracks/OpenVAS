@@ -11,7 +11,7 @@ the GNU General Public License (GPL).
 
 The OpenVAS protocol structure aims to be well-documented to assist developers. 
 The OpenVAS Compendium is a publication of the OpenVAS Project that delivers documentation on OpenVAS.
-
+~~~~~~~~~~~~~
 Reproduced
 ~~~~~~~~~~~~~
 Version: 4.0.5 (corresponds to OpenVAS-9) Virtual machine
@@ -26,7 +26,7 @@ so just wait it out.
 NOTE: You need internet access to do the feed update, and you can't use the machine without the update.
 
 In case you need SSH access, go to "Setup --> Services --> SSH --> Enable"
-
+~~~~~~~~~~~~~
 Command line Interface (CLI)
 ~~~~~~~~~~~~~
 CLI can be accsess via SSH or serial port.
@@ -39,7 +39,7 @@ An asterisk at the prompt indicates a change that is not activated yet.
 In addition the get command shows if a variable is currently "get" This is indicated with 
 an "s" at the beginning of the line. A "u" indicates that the variable currently is not set. 
 Clearing of a variable is possible with the command "unset" Variables can be configured with "set"
-
+~~~~~~~~~~~~~
 Documentation
 ~~~~~~~~~~~~~
 http://docs.greenbone.net/GSM-Manual/gos-3.1/en/
